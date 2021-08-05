@@ -191,18 +191,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa
 #EXTINF:-1 tvg-id="" tvg-name="shakespeare" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",Shakespeare TV
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="纪录片频道",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 6 (EU)
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 7 (EU)
-https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 9 (EU)
-https://rakuten-documentaries-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 10 (EU)
-https://rakuten-documentaries-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 11 (EU)
-https://rakuten-documentaries-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="纪录片频道",Rakuten Documentaries 12 (EU)
-https://rakuten-documentaries-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪录片频道",纪实人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 http://117.169.124.11:6610/PLTV/88888910/224/3221225654/index.m3u8
