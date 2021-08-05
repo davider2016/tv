@@ -92,7 +92,8 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影频道",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
