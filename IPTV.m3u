@@ -187,73 +187,72 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实频道",北京纪实
 http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港开电视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠台
 http://hls.globaliptv.ml/tvbjade.php
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="127" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港台频道",阳光卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港台频道",阳光卫视
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/startv.jpg" group-title="港台频道",星空卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/startv.jpg" group-title="港台频道",星空卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/now332.png" group-title="港台频道",Now新闻332台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/now332.png" group-title="港台频道",Now新闻332台
 http://teslagram.com/live/channel_332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台频道",RTHK 31
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台频道",RTHK 31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台频道",RTHK 32
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台频道",RTHK 32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="Viu TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV Six
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV Six
 http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 tvg-id="6067" tvg-name="Viu TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV
 http://hls.globaliptv.ml/viu99.php
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台频道",无线财经资讯台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台频道",无线财经资讯台
 http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台
-http://61.238.6.49:8001/bysid/83
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="民视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 group-title="港台频道" tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" ,原住民电视
+#EXTINF:-1 tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="港台频道",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台频道",TVBS新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台频道",TVBS新闻台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台频道",东森财经新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台频道",东森财经新闻台
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台频道",东森新闻台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视新闻资讯.png" group-title="港台频道",华视新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视新闻资讯.png" group-title="港台频道",华视新闻台
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻台
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港台频道",三立Inews
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港台频道",三立Inews
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新闻.png" group-title="港台频道",三立Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新闻.png" group-title="港台频道",三立Live
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港台频道",台视新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港台频道",台视新闻台
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台频道",中视新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台频道",中视新闻台
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" group-title="港台频道",中天新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" group-title="港台频道",中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台频道",民视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台频道",民视
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港台频道",民视第一台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港台频道",民视第一台
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港台频道",民视台湾台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港台频道",民视台湾台
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="港台频道",民视影剧台
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="港台频道",民视影剧台
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港台频道",民视综艺台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港台频道",民视综艺台
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="港台频道",民视旅游台
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="港台频道",民视旅游台
 http://seb.sason.top/ptv/ftv.php?id=ly
 
