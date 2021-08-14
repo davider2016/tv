@@ -169,3 +169,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85f
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/94/USAK3508703A20200730102745.png" group-title="纪录片频道" ,Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1 tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="纪录片频道",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/USAJ2200016D920200730102745.png " group-title="纪录片频道" ,Filmrise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisescifi/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ40000014Z20200730102745.png" group-title="纪录片频道" ,Filmrise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisetruecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="纪录片频道",History Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Documentaries.jpg" group-title="纪录片频道",My5 Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV History" tvg-logo="http://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="纪录片频道",Pluto TV History
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="shakespeare" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",Shakespeare TV
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="纪录片频道",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪录片频道",纪实人文
+http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+http://117.169.124.11:6610/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪录片频道",北京纪实
+http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
