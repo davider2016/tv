@@ -165,8 +165,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="人文频道",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="shakespeare" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",Shakespeare TV
-http://v.iam7.cn/iptv/cibn.php?code=68
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="人文频道",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
