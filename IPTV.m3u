@@ -142,7 +142,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="ESPNU" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ESPN%20University.png" group-title="人文频道",ESPN University
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="人文频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
+#EXTINF:-1 group-title="人文频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lk8azuc.png" group-title="人文频道",Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
