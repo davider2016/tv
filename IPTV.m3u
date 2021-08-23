@@ -113,6 +113,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Posi%20TV.jpg" group-title="电影频道",Posi TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?OTATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/showtime-icon-us.png" group-title="电影频道",SHOWTIME
+http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/syfy-us.png" group-title="电影频道",SYFY
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tnt-us.png" group-title="电影频道",TNT (East)
