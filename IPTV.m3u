@@ -272,7 +272,7 @@ https://stream2.grandma.fit/fs2.m3u8
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
 https://mediasv.online/tvchannel_x1/nflnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNjoyODoxMyBQTSZoYXNoX3ZhbHVlPUpybFRFcVhTL0diSlUwNzd4ekFBQlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNzYxMDA=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="体育频道",NFL Network
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png" group-title="体育频道",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育频道",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
