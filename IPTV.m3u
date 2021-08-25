@@ -262,28 +262,3 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/tlc.png" group-title="人文频道",TLC
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ACCDN.jpg" group-title="体育频道",ACCDN
-https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="体育频道",CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
-https://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="体育频道",Game Show Network
-https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
-https://mediasv.online/tvchannel_x1/nflnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNjoyODoxMyBQTSZoYXNoX3ZhbHVlPUpybFRFcVhTL0diSlUwNzd4ekFBQlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNzYxMDA=
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png" group-title="体育频道",NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育频道",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title ="体育频道",NBA HD
-https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMA%20TV%202.png" group-title="体育频道",MMA
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/WWE.png" group-title="体育频道",WWE
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-
-
