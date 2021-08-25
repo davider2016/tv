@@ -202,6 +202,8 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/m
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Jasmin%20TV.jpg" group-title="人文频道",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="人文频道",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="人文频道",Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
@@ -270,7 +272,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMA%20TV%202.png" group-title="体育频道",MMA
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="人文频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/WWE.png" group-title="体育频道",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
