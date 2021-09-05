@@ -8,7 +8,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-name="513 Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="新闻频道",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/bbc%20world%20news.png" group-title="新闻频道",BBC World News
-http://79.154.67.88:7003/play/a03x/index.m3u8
+http://212.102.60.76:80/j1/mono.m3u8
 #EXTINF:-1 tvg-name="353 Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="新闻频道",Bloomberg 
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" group-title="新闻频道",Bloomberg Quicktake
