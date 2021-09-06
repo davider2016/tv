@@ -179,7 +179,7 @@ https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/showtime-icon-us.png" group-title="电影频道",Showtime
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Showtime Select" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="电影频道",Showtime Select
+#EXTINF:-1 tvg-name="Showtime Select" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="电影频道",Showtime Selects
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=127&deviceId=5f988934a507de00075d9ae7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/syfy-us.png" group-title="电影频道",SYFY
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
