@@ -24,7 +24,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP727kx.png" group-title="新闻频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="357 CNBC World" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="新闻频道",CNBC World
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81003
+http://92.109.203.36:4000/play/a012
 #EXTINF:-1 tvg-name="CNN-HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN International
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 tvg-name="CNN-HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN International HD
