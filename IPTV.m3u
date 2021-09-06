@@ -185,6 +185,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Bravo.jpg" group-title="人文频道",Bravo
 https://bozztv.com/teleyupp/teleup-bravo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="人文频道",Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Classica.png" group-title="人文频道",Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="人文频道",Classic Arts Showcase
@@ -267,7 +269,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="人文频道",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
-https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Freefrom%20TV.jpg" group-title="人文频道",Freeform
 https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Revolt.png" group-title="人文频道",Revolt
@@ -398,8 +400,12 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="体育频道",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="体育频道" ,ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
 https://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA20200730102745.png" group-title="体育频道",Game Show Central
+https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="体育频道",Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
