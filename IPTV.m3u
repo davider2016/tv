@@ -100,6 +100,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fx-us.png" group-title="电影频道",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC 
+http://212.102.60.76:80/f1/mono.m3u8
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC IFC Film Picks
