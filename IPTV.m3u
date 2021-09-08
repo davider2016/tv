@@ -239,6 +239,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/contv.png" group-title="人文频道",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cycnow.com/wp-content/uploads/2018/08/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="人文频道",CYC (Christan Youth Channel) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="人文频道",Da vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-2-us.png" group-title="人文频道",Discovery Channel
@@ -468,12 +470,24 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title="文体频道",NBA HD
 http://82.114.87.150:8881/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMA%20TV%202.png" group-title="文体频道",MMA
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:ahlakid.com
 #EXTINF:-1 group-title="文体频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="文体频道",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/stadium-us.png" group-title="文体频道",Stadium Network
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/dIzAmT0.png",Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/HZp8PAw.png",Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/xVgXmS2.jpg",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/4FGVDqV.jpg",Turkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/pggeczF.jpg",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/Nus9e8M.jpg",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/stadium-us.png" group-title="文体频道",Stadium Network
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/WWE.png" group-title="文体频道",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
