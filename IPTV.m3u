@@ -5,6 +5,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-AfricanewsEnglish/playlist.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang News
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="新闻频道" tvg-logo="http://arirang.com/images/index/arirang.png",未知
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="新闻频道",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-name="513 Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="新闻频道",Aljazeera News
