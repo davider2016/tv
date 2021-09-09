@@ -203,6 +203,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/max.jpg" group-title="电影频道",Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+http://us.bestvideostreaming.is/8882/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="人文频道",ABC TV Australia
