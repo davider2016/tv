@@ -266,6 +266,8 @@ https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Life.jpg" group-title="人文频道",Fox Life
 https://mediasv.online/tvchannel_x1/hd-foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNToxMTozOCBQTSZoYXNoX3ZhbHVlPU8xbGFXRm9jRzZSVDhQbUpUQjY4SWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfMTQwNzQ=
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Life.jpg" group-title="人文频道",Fox Life (op)
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/GQ.png" group-title="人文频道",GQ
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/hdfashion.jpg" group-title="人文频道",HD Fashion
